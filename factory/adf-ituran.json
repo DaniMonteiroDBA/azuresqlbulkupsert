@@ -1,0 +1,9 @@
+{
+	"name": "adf-ituran",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dda0acac-b6f1-4124-a18b-3676842bf1ec",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
